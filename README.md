@@ -5,7 +5,7 @@ Diagrama de Inserção:
 <img src="imgs/insercao.png">
 
 Diagrama de Remoção:
-<img src="imgs/remocao.png">
+<img src="imgs/remorcao.png">
 
 Diagrama de Pesquisa:
 <img src="imgs/pesquisa.png">
